@@ -38,10 +38,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Dissolve_Amount: 1.245
+    - _Dissolve_Amount: 1.213
     - _Dissolve_Scale: 5
-    - _Distortion_Amount: 0.115
-    - _Distortion_Scale: 8.5
+    - _Distortion_Amount: 0.136
+    - _Distortion_Scale: 5.29
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
