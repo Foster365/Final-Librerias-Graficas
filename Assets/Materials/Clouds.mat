@@ -40,7 +40,7 @@ Material:
     - _Clouds_Alpha: 1.1
     - _Clouds_Speed: 0.05
     - _Distort_Scale: 87.59
-    - _QueueControl: 0
+    - _QueueControl: 1
     - _QueueOffset: 0
     - _Vertex_Offset: 0.05
     m_Colors:

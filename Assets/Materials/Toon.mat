@@ -21,7 +21,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: dd61af2ec9847eb4d8e17529fa61b143, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 10, y: 10}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -30,10 +30,15 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _DarkTones: 0
     - _DarkTones1: 0
+    - _Highlight: 0
     - _Highlight1: 0.245
+    - _LightTones: 0
     - _LightTones1: 0.112
     m_Colors:
+    - _DarkTint: {r: 0.20784307, g: 0.009674203, b: 0, a: 0}
     - _DarkTint1: {r: 0.30863333, g: 0, b: 1, a: 0}
+    - _LightTint: {r: 1, g: 0.39636725, b: 0, a: 0}
     - _LightTint1: {r: 1, g: 0.3950442, b: 0, a: 0}
   m_BuildTextureStacks: []

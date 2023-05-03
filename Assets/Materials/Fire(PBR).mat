@@ -39,14 +39,14 @@ Material:
     m_Ints: []
     m_Floats:
     - _Dissolve_Amount: 1.213
-    - _Dissolve_Scale: 5
-    - _Distortion_Amount: 0.136
+    - _Dissolve_Scale: 2.47
+    - _Distortion_Amount: 0.194
     - _Distortion_Scale: 5.29
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Dissolve_Speed: {r: -0.1, g: -0.5, b: 0, a: 0}
-    - _Distortion_Speed: {r: 0, g: -0.5, b: 0, a: 0}
+    - _Dissolve_Speed: {r: -0.1, g: -1.74, b: 0, a: 0}
+    - _Distortion_Speed: {r: 0, g: -0.06, b: 0, a: 0}
     - _Fire_Color: {r: 1024, g: 164.86227, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &167470083053432172
