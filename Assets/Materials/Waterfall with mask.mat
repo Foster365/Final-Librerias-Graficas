@@ -27,7 +27,7 @@ Material:
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2500
+  m_CustomRenderQueue: 3000
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -59,6 +59,6 @@ Material:
     - _Voronoi_Scale: 10.76
     - _Voronoi_Speed: 1
     m_Colors:
-    - _Ripple_Color: {r: 0.008568125, g: 0.013702081, b: 0.03189604, a: 1}
+    - _Ripple_Color: {r: 0.003921569, g: 0.007843138, b: 0.02745098, a: 1}
     - _Ripple_Speed: {r: 0, g: 0.2, b: 0, a: 0}
   m_BuildTextureStacks: []
